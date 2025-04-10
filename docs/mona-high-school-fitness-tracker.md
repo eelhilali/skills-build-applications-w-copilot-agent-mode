@@ -205,6 +205,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = "monafit_tracker.urls"
 
+
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
